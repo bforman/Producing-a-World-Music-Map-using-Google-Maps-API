@@ -1,0 +1,2 @@
+# Producing-a-World-Music-Map-using-Google-Maps-API
+This repository provides an overview into how to approach producing a world map or perhaps a map of a portion of the world using the Google Maps API. This inquiry takes a look at an existing world music map and expresses the limitations of the existing project and how it might be improved. The process of obtaining a Google Maps API and getting started on a given Google Maps project is included as well.
